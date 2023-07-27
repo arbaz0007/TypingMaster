@@ -1,3 +1,4 @@
+An interactive mobile app developed with React Native, offering typing exercises to improve users' typing speed and accuracy. Real-time performance metrics and adaptable difficulty levels are included.
 Screenshots
 ============
 ![Screenshot (2)](https://user-images.githubusercontent.com/112786913/216625175-7a1e0045-3972-4b45-99ef-c948e934eba6.png)
